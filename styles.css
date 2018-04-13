@@ -1,0 +1,10 @@
+.main {
+  background: #555555;
+  width: 1280px;
+  height: 1024px;
+}
+
+.my-font {
+  font-family: 'my-font';
+  font-size: 100px;
+}
